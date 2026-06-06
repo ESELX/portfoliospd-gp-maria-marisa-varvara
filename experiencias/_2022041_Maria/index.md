@@ -30,7 +30,7 @@ Como nos fora proposto este desafio, decidi começar a explorar as minhas possib
 
 Uma ou mais tecnologias estudadas em laboratório:
 
-- [x] Corte 2D (laser / vinil)
+- [ ] Corte 2D (laser / vinil)
 - [x] Impressão 3D
 - [ ] CNC
 - [ ] Micro:bit / computação física
@@ -38,11 +38,10 @@ Uma ou mais tecnologias estudadas em laboratório:
 
 Materiais, software, ficheiros técnicos.
 
-## Processo
+## Processo:
 
-Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
 
-### Iteração 1 — [título]
+### Conceito/Pesquisa — [título]
 
 **O que tentei:**
 Com a ideia já estabelecida, ou seja, de criar um chaveiro/suporte para telefone comecei por esboçar a ideia. Reparei que não poderia fazer uma decoração muita elaborada, uma vez que a base, seria o principal e onde deveria ter um mecanismo que fosse simples e possível de encaixar o telefone.
@@ -53,12 +52,15 @@ Aprendi que a funcionalidade e a estética devem coexistir num projeto, mas nunc
 
 ![](attachments/Pasted%20image%2020260606211504.png)
 ![](attachments/Pasted%20image%2020260606211638.png)
-### Iteração 2 — [título]
+### Processo do 2D para o 3D — [título]
 
 **O que tentei:**
 Apos o processo dos desenhos em 2D e da pesquisa, iniciei o meu processo para a modelação. Onde optei por utilizar 2 softwares  o "Nomad Sculpt" para o personagem e depois para a base/suporte do telefone foi utilizado o "Fusion360"
 
-**Processo do 2D para o 3D**
+**O que aprendi:**
+Consegui aprender a utilizar e conjugar 2 programas para o mesmo projeto, uma vez que seriam para funcionalidades diferentes. Além disso, verifiquei que alguns desenhos depois quando se passa para o 3D podem não ficar igual, ou ate mesmo devem sofrer algumas alterações para ser possível, como foi o caso do personagem que optei por fazer só ate ao tronco e não com pernas como tinha desenhado.
+
+**Inicio do Processo de 2D para o 3D**
 No "Fusion360" o processo passou-se do seguinte modo: 
 
 1º foi criado um sketch retangular a partir do plano "Direito" com as seguintes dimensões: A - 25mm L-114mm (Como podemos ver na fig.1)
@@ -110,24 +112,27 @@ Já com o  "Nomad Sculpt" o processo passou-se do seguinte modo:
 3º Concluindo a cabeça , vamos partir para o corpo. Nesta fase vamos criar outro circulo, utilizamos o "gizmo" para ajustar o mesmo e colocar por baixo da cabeça. Já com o espelho ativo, como fizemos antes vamos ajustando para o formato, que e um formato tipo pera, mais arredondado nos lados com a ferramenta "move". Ao estar no formato que pretendemos vamos utilizar o "trim" e cortar a parte de baixo para ser mais fácil o corpo do personagem encaixar na base. 
 
 4º Depois vamos criar outro circulo e outra vez com o "gizmo" vamos colocar mais para cima e a peça que criamos anteriormente, mais para baixo como ´´e demonstrado na fig.9. Quando o circulo que acabamos de criar estiver em cima, vamos ajustar o mesmo com o "move" até ficar parecido com uma gola (uma boa dica será ir rodando o objeto de forma a ver todos os ângulos da forma que criamos) e por fim vamos utilizar o "smooth" para dar o efeito mais acabado. 
-![[Pasted image 20260603202109.png]](Fig.9 Nomad Sculpt criação da cabeça do personagem, com um circulo e assinalado ferramentas utilizadas )
+
+![](attachments/Pasted%20image%2020260606221500.png)
+(Fig.9 Nomad Sculpt criação da cabeça do personagem, com um circulo e assinalado ferramentas utilizadas )
 
 5º Agora vamos partir, para os detalhes da cara do personagem. Primeiro devemos retirar o espalhado que está do lado esquerdo e apos isso vamos criar dois círculos para fazer os olhos, vamos ajustar com o "gizmo" para colocar do tamanho que pretendemos e depois com o "move" vamos colocar num formato meio plano. Voltamos a utilizar o "gizmo" para colocar na área que pretendemos da cara do personagem e apos isso usamos o "smooth" novamente. 
 
 6º Com os olhos feitos, vamos fazer a boca do personagem, onde vamos criar um cilindro e ajustar o mesmo com o "gizmo". Primeiro comprimindo o mesmo como fizemos com a base e depois colocando mais pequeno. Para finalizar e só posicionar onde pretendemos na cara do personagem e utilizar o "smooth"
 
 7º Como vimos no desenho final, antes de partimos para a modelagem 3D o boneco tinha bochechas e o que vamos criar neste passo. Deste modo vamos voltar a ligar o "espelhado" do lado esquerdo e vamos criar um circulo. Com o "gizmo" vamos diminuir até ao tamanho ideal e achatar o mesmo, quando estiver no formato pretendido vamos ajusta-lo na cara do personagem com a mesma ferramenta utilizada até ao momento e a finalização será feita com o "smooth"
-![[IMG_2054.png]]
+
+![](attachments/Pasted%20image%2020260606221514.png)
 (Fig.10 Nomad Sculpt criação da boca e olhos do personagem, com um círculos e cilindros e assinalado ferramentas utilizadas )
 
 8º Apos finalizar as feições do personagem, vamos fazer o cabelo. Neste caso vamos criar um cilindro e ajustar o mesmo com o "gizmo" quando o mesmo estiver posicionado onde queremos, ou seja, no centro e vamos utilizar primeiro o "mask" e selecionar a parte da frente no formato da cara e depois utilizar o "move" para retirar e ser possível visualizar as feições do personagem. Para concluir na parte superior vamos utilizar o "trim" para retirar e utilizar o "smooth" para suavizar o máximo possível (todos os paços anteriores devemos ter o "espelhar" ativo)
 
-![[IMG_2055.png]]
+![](attachments/Pasted%20image%2020260606221529.png)
 (Fig.11 Nomad Sculpt criação do cabelo, com um cilindro e assinalado ferramentas utilizadas )
 
 9º Agora vamos criar um dos acessórios do nosso personagem, o capacete. Para a criação deste objeto vamos criar um circulo e posicionar com o "gizmo" no centro do personagem. Apos isso, com o "brush" vamos criar a abertura para ser possível ver a cara/cabelo do personagem, apos termos o formato criado com o "brush" vamos clicar no "mask" e só apos isso podemos começar a mover a parte da frente para dentro e depois utilizar o "smooth" para arredondar todo. 
 
-![[IMG_2056.png]]
+![](attachments/Pasted%20image%2020260606221556.png)
 (Fig.12 Nomad Sculpt criação do capacete, com um circulo e assinalado ferramentas utilizadas )
 
 10º Depois de finalizarmos o capacete, vamos decorar o mesmo. Primeiro foram criadas as orelhas. Para a criacao das mesmoas primeiro devemos ligar o espelhado e depois criar um cilindro, quando tivermos o mesmo com o "gizmo" espalmamos o mesmo e posicionamos onde pretendemos. Depois com o "move" vamos ajeitando de forma a dar um ar mais natural e por fim finalizamos com o "smooth".
@@ -138,36 +143,70 @@ Já com o  "Nomad Sculpt" o processo passou-se do seguinte modo:
 
 13º Como pretendemos criar um chaveiro, vamos criar a peça para ser possível encaixar a corrente. Para criar a mesma vamos ter de criar um torus e utilizar o "gizmo" para diminuir o tamanho e ajustar ao centro do capacete na parte superior.
 
-![[IMG_2057.png]]
+![](attachments/Pasted%20image%2020260606221616.png)
 (Fig.12 Nomad Sculpt criação dos acessórios do capacete, com um círculos e cilindros e assinalado ferramentas utilizadas )
 
 14º Para a parte final do personagem vamos criar os braços e as mãos. Para este passo devemos ligar a função de espelhado e depois criar um cilindro, que através da ferramenta "gizmo" vamos ajustar e posicionar na lateral do personagem. Com a ferramenta "move" vamos juntar o braço ao corpo e começar a movimentar de forma ao braço ficar mais arredondado, vamos para esse efeito também utilizar a ferramenta "smooth"
 
 15º Para a criaçao das maos vamos criar um circulo (mantendo a funçao de espelhado ligado) e utilizar o "gizmo" para posicionar na parte da frente do braço e vamos utilizar o "move" para colocar uma parte do circulo para dentro e criar este formato de concha, por fim utilizamos o "smooth" para suavizar o aspeto.
 
-![[IMG_2058.png]]
+![](attachments/Pasted%20image%2020260606221719.png)
 (Fig.13 Nomad Sculpt criação dos braços e mãos, com um círculos e cilindros e assinalado ferramentas utilizadas )
 
-Ao seguir estes paços conseguimos finalizar a modelaçao do personagem, mas para conseguirmos juntar a base que criamos no Fusion360 a este personagem. Devemos primeiro exportar este doc.  Devemos ir a "Files - Export" e clicar onde diz "Export-OBJ" ao termos exportado este doc. devemos abrir novamente o Fusion360.
+Ao seguir estes paços conseguimos finalizar a modelação do personagem, mas para conseguirmos juntar a base que criamos no Fusion360 a este personagem. Devemos primeiro exportar este doc.  Devemos ir a "Files - Export" e clicar onde diz "Export-OBJ" ao termos exportado este doc. devemos abrir novamente o Fusion360.
 
-![[Design sem nome (4).png]]
-(Fig.13 Nomad Sculpt modelação 3D finalizada e mostrado como exportar o doc. para OBJ )
+![](attachments/Pasted%20image%2020260606221659.png)
+(Fig.14 Nomad Sculpt modelação 3D finalizada e mostrado como exportar o doc. para OBJ )
 
 **Fusion360**
 Como indicado no passo anterior, apos exportarmos o doc. para OBJ devemos ir ao projeto da base que criamos incialmente e clicar no "insert mesh" e selecionar o doc. que exportamos anteriormente. Com o "schale" e o move podemos ajustar o objeto que adicionamos, de forma a encaixar ambos os projetos e criando um só, ou seja o nosso produto final que consiste num chaveiro que serve também como suporte para o telefone.
 
-![[Pasted image 20260603221828.png]]
-(Fig.13 Fusion360 inserção do doc.OBJ que criamos no Nomad Sculpt na nossa base criada anteriormente )
+![](attachments/Pasted%20image%2020260606221751.png)
+(Fig.15 Fusion360 inserção do doc.OBJ que criamos no Nomad Sculpt na nossa base criada anteriormente )
+
+
+
+### Impressão 3D — [título]
+**O que tentei:**
+Apos concluir a fase de modelação 3D e renderizar o projeto, vamos passar para a fase da impressão 3D, de forma a ter um protótipo do meu projeto. 
 
 **O que aprendi:**
-Consegui aprender a utilizar e conjugar 2 programas para o mesmo projeto, uma vez que seriam para funcionalidades diferentes. Além disso, verifiquei que alguns desenhos depois quando se passa para o 3D podem não ficar igual, ou ate mesmo devem sofrer algumas alterações para ser possível, como foi o caso do personagem que optei por fazer só ate ao tronco e não com pernas como tinha desenhado.
+Aprendi a como configurar/exportar ficheiros (Fusion360" - indo a File - Export - e devemos selecionar a opção 3MF Files.). De forma a ser possível utilizar uma impressora 3d - Bambu Lab A1 mini. 
+
+**Exportação de Ficheiro para impressão 3D:**
+"Fusion360" - indo a File - Export - e devemos selecionar a opção 3MF Files. 
+
+**Configuração do "Bambu Studio":**
+1º Impressora -  Bambu Lab A1 mini
+2º Filamento - Generic PETG
+3º Layer Heigth - 0.2 mm
+4ºSeam - Aligned
+
+![](attachments/Captura%20de%20ecrã%202026-05-13%20172306.png)
+(Fig.16 "Bambu Studio" configuração para a impressão 3D)
+
+Apos configurarmos deste modo devemos selecionar a opçao slice plate e com isto, uma vez que e uma modelação com área que podem cair, ele vai criar automaticamente os suportes necessários para que o que vamos imprimir não caia ou fique danificado enquanto ocorre a impressão ( Ao clicarmos nesta opção também permite também a visualização de quanto tempo levara ate que a impressão seja concluída. )
+
+![](attachments/Pasted%20image%2020260606222249.png)
+(Fig.17 "Bambu Studio" inserção dos suportes necessários para a impressão)
+ 
+ Tendo finalizado estes processos, basta colocarmos a pen USB, transferimos o nosso projeto para a pen e depois devemos levar a mesma ate a impressora que vamos utilizar. Ao inserirmos a pen na impressora depois no ecrã vai nos aparecer para começar a impressão.
+ 
+![](attachments/IMG_7525.jpg)
+(Fig.18 Fotografia da impressora no inicio do processo)
+
+![](attachments/IMG_7527.mov)
+(Fig.19 Vídeo de demonstração como funciona a impressão 3D)
+
 ## Resultado Final
 
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
-![](attachments/hero.jpg)
+![](attachments/Pasted%20image%2020260606221831.png)
 ![](attachments/hero.jpg)
 
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+Se tivesse a possibilidade de explorar mais a modelação/ impressão em 3D novamente, iria criar modelações mais simples de forma a poder imprimir mais vezes e conseguir ter uma maior noção de como melhorar a minha modelação e consequentemente aprender mais sobre impressão. 
+ Além disso, também iria me permitir explorar mais o corte em vinil e como integrar o mesmo em projetos de impressão 3D.  Já especificamente a este projeto se tivesse feito mais impressões talvez poderia erra mais cedo ou ate fazer algumas alterações de forma a enriquecer o processo. 
+
