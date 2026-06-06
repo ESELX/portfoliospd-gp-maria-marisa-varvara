@@ -1,11 +1,11 @@
 ---
-title: "Nome da Máquina"
+title: Bambu Lab A1 Mini
 icon: lucide/cog
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome da Máquina"
-hero_subtitle: "Tutorial detalhado"
+hero_title: Nome da Máquina
+hero_subtitle: Tutorial detalhado
 hero_height: 70vh
 hero_overlay: 0.3
 hero_align: center
@@ -13,7 +13,7 @@ published: true
 machine_name: ""
 ---
 
-# Nome da Máquina
+# Bambu Lab A1 Mini
 
 > Frase-síntese: o que é a máquina, para que serve, em que contextos é usada.
 

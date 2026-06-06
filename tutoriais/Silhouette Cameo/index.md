@@ -1,11 +1,11 @@
 ---
-title: "Nome da Máquina"
+title: Silhouette Cameo
 icon: lucide/cog
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome da Máquina"
-hero_subtitle: "Tutorial detalhado"
+hero_title: Nome da Máquina
+hero_subtitle: Tutorial detalhado
 hero_height: 70vh
 hero_overlay: 0.3
 hero_align: center
