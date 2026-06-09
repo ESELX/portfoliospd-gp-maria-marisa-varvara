@@ -57,7 +57,7 @@ Apos o processo dos desenhos em 2D e da pesquisa, iniciei o meu processo para a 
 O que aprendi:  
 Consegui aprender a utilizar e conjugar 2 programas para o mesmo projeto, uma vez que seriam para funcionalidades diferentes. Além disso, verifiquei que alguns desenhos depois quando se passa para o 3D podem não ficar igual, ou ate mesmo devem sofrer algumas alterações para ser possível, como foi o caso do personagem que optei por fazer só ate ao tronco e não com pernas como tinha desenhado.
 
-### Inicio do Processo de 2D para o 3D  
+### Iteração 1 — [Inicio do Processo de 2D para o 3D ] 
 
 No "Fusion360" o processo passou-se do seguinte modo:
 
@@ -99,7 +99,7 @@ No "Fusion360" o processo passou-se do seguinte modo:
 
 Com os passos anteriores concluímos a primeira parte deste projeto, ou seja, já temos a base do nosso suporte efetuada, agora vamos iniciar o processo para a criação do personagem e inserir o mesmo no que já criamos.
 
-#### Nomad Sculpt  
+### Iteração 2 — [Nomad Sculpt ]
 
 Já com o "Nomad Sculpt" o processo passou-se do seguinte modo:
 
@@ -178,7 +178,7 @@ Como indicado no passo anterior, apos exportarmos o doc. para OBJ devemos ir ao 
 
 (Fig.15 Fusion360 inserção do doc.OBJ que criamos no Nomad Sculpt na nossa base criada anteriormente )
 
-### Impressão 3D
+### Iteração 3 — [Impressão 3D]
 
 O que tentei:  
 Apos concluir a fase de modelação 3D e renderizar o projeto, vamos passar para a fase da impressão 3D, de forma a ter um protótipo do meu projeto.

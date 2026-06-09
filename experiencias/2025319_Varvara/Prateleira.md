@@ -1,5 +1,5 @@
 ---
-title: Nome do Projeto Individual
+title: Prateleira
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -10,21 +10,16 @@ hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Varvara Pertseva
+student_number: "2025319"
 ---
 
-# Nome do Projeto Individual
+# Optimizar o espaço de armazenamento
 
-> Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
-
-![](attachments/hero.jpg)
-
-Frase-conceito: ideia central do projeto em uma linha.
-
+Frase-conceito: criar mais espaço para guardar objetos e otimizar a organização do espaço.
 ## Conceito
 
-Que ideia explora o projeto? Que problema ou pergunta o motivou? Tema é livre — pode ligar-se a outras UCs.
+Uma prateleira que pode ser utilizada para diversos fins, como sapatos, livros, material de arte, etc.
 
 ## Tecnologias Usadas
 
@@ -32,34 +27,52 @@ Uma ou mais tecnologias estudadas em laboratório:
 
 - [ ] Corte 2D (laser / vinil)
 - [ ] Impressão 3D
-- [ ] CNC
+- [x] CNC
 - [ ] Micro:bit / computação física
 - [ ] Outras —
 
-Materiais, software, ficheiros técnicos.
-
 ## Processo
 
-Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
+### Iteração 1 — [Sketch]
 
-### Iteração 1 — [título]
+**O que tentei:** O esboço foi provavelmente o que demorou mais tempo; tentei usar parâmetros pela primeira vez, o que fez com que tivesse demasiadas peças interligadas. 
 
-**O que tentei:**
-**O que aprendi:**
+No esboço, é também mais complicado do que a peça final, uma vez que retirei algumas peças desnecessárias.
 
-![](attachments/hero.jpg)
+**O que aprendi:** eficiência.
 
-### Iteração 2 — [título]
+![](attachments/shelf%20sketch.png)
 
-...
+### Iteração 2 — [Autodesk Fusion]
 
+Utilizei o Fusion 360 para criar o meu modelo, começando pelo esboço.
+
+Para este modelo, como de costume, utilizei principalmente a ferramenta de extrusão e tive de o ajustar várias vezes para que o modelo ficasse com um aspeto «correto». 
+
+Quando terminei, passei pela maioria das fendas com a ferramenta «dogbone», para que a fresa conseguisse cortar os ângulos mais estreitos.
+
+Tive de ajustar bastante o tamanho, porque não conseguimos encontrar um pedaço de madeira adequado. Acho que passei por três versões diferentes, até chegar à versão final.
+
+![](attachments/shelf%20model.png)
+
+### Iteração 3 — [CNC]
+
+Embora eu saiba que, por razões óbvias, esta etapa é a mais importante, não posso dizer muito sobre o assunto, uma vez que não estava presente. O professor colocou-o na máquina e, mais tarde, fui buscá-lo.
+
+### Iteração 3 — [Vanguarda]
+
+O último passo foi cortar as pontas soltas e montar tudo. 
+
+Cortei várias peças que não tinham sido cortadas com serra nem alicate. Também lixei algumas das fendas para facilitar o trabalho na etapa seguinte.
+
+Como as medidas eram muito precisas, tive de usar um martelo para montar a prateleira, porque não tinha força suficiente para o fazer com as mãos.
 ## Resultado Final
 
-Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
+Este é o aspeto final do objeto;
+Chega até à altura da minha barriga da perna e é muito pesado, mas também resistente. É muito difícil separar as peças, o que o torna difícil de partir.
 
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
+![](attachments/shelf%20final.jpg)
 
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+A prateleira deveria ter ficado muito, muito mais pequena, mas como precisei de manter a espessura ao ajustar as dimensões, acabou por ficar demasiado grande, o que não reparei durante a fase de modelação

@@ -1,65 +1,62 @@
 ---
-title: Nome do Projeto Individual
+title: Autocolante
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Projeto
+hero_title: Autocolante
 hero_subtitle: Varvara Pertseva · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Varvara Pertseva
+student_number: "2025319"
 ---
 
-# Nome do Projeto Individual
+# Optimizar o espaço de armazenamento
 
-> Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
-
-![](attachments/hero.jpg)
-
-Frase-conceito: ideia central do projeto em uma linha.
-
-## Conceito
-
-Que ideia explora o projeto? Que problema ou pergunta o motivou? Tema é livre — pode ligar-se a outras UCs.
-
+Frase-conceito: criar mais espaço para guardar objetos e otimizar a organização do espaço.
 ## Tecnologias Usadas
 
 Uma ou mais tecnologias estudadas em laboratório:
 
-- [ ] Corte 2D (laser / vinil)
+- [x] Corte 2D (laser / vinil)
 - [ ] Impressão 3D
 - [ ] CNC
 - [ ] Micro:bit / computação física
 - [ ] Outras —
+# Autocolante
 
-Materiais, software, ficheiros técnicos.
+## Conceito
 
+O segundo projeto foi o que me levou menos tempo e foi feito mais por interesse pessoal do que pela ideia de otimizar o espaço.
+
+É um autocolante inspirado no emblema de um videojogo de que gosto.
 ## Processo
 
-Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.
+### Iteração 1 — [Sketch]
 
-### Iteração 1 — [título]
+**O que tentei:** Uma vez que o programa que utilizamos para o corte é o «Silhouette Studio», o formato de ficheiro necessário é o DXF. Este tipo de ficheiro é mais frequentemente utilizado pelo «Adobe Illustrator», mas, no meu caso, optei pelo «Fusion 360». 
 
-**O que tentei:**
-**O que aprendi:**
+Utilizei a funcionalidade de esboço para criar uma forma inspirada no logótipo de um videojogo.
 
-![](attachments/hero.jpg)
+**O que aprendi:** utilizando um programa diferente do recomendado.
 
-### Iteração 2 — [título]
+![](attachments/sticker%20sketch.png)
 
-...
+### Iteração 2 — [Silhouette Studio]
 
+Depois de exportá-lo, basta colocá-lo no Silhouette Studio, onde ajustei o tamanho para caber numa folha A4, uma vez que esses são os parâmetros utilizados pela nossa máquina.
+
+A partir daí, bastou escolher a cor do vinil e definir as configurações para esse material na máquina.
 ## Resultado Final
 
-Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
+O resultado final é suficientemente pequeno para caber na capa do meu telemóvel. Como já referi, é inspirado num emblema do videojogo «Marathon».
 
-![](attachments/hero.jpg)
-![](attachments/hero.jpg)
+![](attachments/sticker%20final.jpg)
+![](attachments/sticker%20final%20outer.jpg)
 
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+Devo dizer que, embora no computador a imagem esteja bem feita, ficou um pouco torta por uma razão que desconheço, mas talvez porque a máquina não tenha segurado o papel com firmeza suficiente.

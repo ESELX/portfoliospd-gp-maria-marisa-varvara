@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: GP - Maria, Marisa, Varvara
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Prototipagem Digital · 2025-26"
+hero_title: GP - Maria, Marisa, Varvara
+hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "PrototipagemDigital"
+course: PrototipagemDigital
 group_name: ""
 group_number: ""
 members:
@@ -20,17 +20,17 @@ members:
     name: ""
 ---
 
-# Nome do Grupo
+# GP - Maria, Marisa, Varvara
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha conceptualmente forte).
+> Construir redores para quem adapta o seu mundo.
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome             |
+| ------- | ---------------- |
+| 2022041 | Maria Talhinhas  |
+| 2024338 | Marisa Filipe    |
+| 2025319 | Varvara Pertseva |
 
 ---
 
