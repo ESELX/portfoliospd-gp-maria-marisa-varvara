@@ -1,16 +1,16 @@
 ---
-title: "Nome do Projeto Individual"
+title: Nome do Projeto Individual
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Projeto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Nome do Projeto
+hero_subtitle: Maria Talhinhas · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
+student_name: Maria Talhinhas
 student_number: ""
 ---
 
@@ -18,7 +18,7 @@ student_number: ""
 
 > Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
-![](attachments/hero.jpg)
+![](../../attachments/hero.jpg)
 
 Frase-conceito: ideia central do projeto em uma linha.
 
@@ -31,7 +31,7 @@ Que ideia explora o projeto? Que problema ou pergunta o motivou? Tema é livre �
 Uma ou mais tecnologias estudadas em laboratório:
 
 - [ ] Corte 2D (laser / vinil)
-- [ ] Impressão 3D
+- [x] Impressão 3D
 - [ ] CNC
 - [ ] Micro:bit / computação física
 - [ ] Outras —
