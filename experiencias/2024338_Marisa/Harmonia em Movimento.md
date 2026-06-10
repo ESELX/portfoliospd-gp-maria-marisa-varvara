@@ -16,11 +16,7 @@ student_number: "2024338"
 
 # Harmonia em Movimento
 
-> Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
-
-![](attachments/hero.jpg)
-
-Frase-conceito: ideia central do projeto em uma linha.
+Frase-conceito: Brinquedo de equilíbrio que cria movimento entre as peças e os utilizadores.
 
 ## Conceito
 
