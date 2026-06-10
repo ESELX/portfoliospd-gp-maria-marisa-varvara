@@ -17,7 +17,7 @@ machine_name: ""
 
 > Frase-síntese: é uma plotter de corte digital, utilizada para cortar com precisão materiais como vinil adesivo, papel e cartolina. É um equipamento utilizado para personalizar produtos e prototipagem rápida de autocolantes.
 
-![](attachments/Pasted%20image%2020260610131041.png)
+![](attachments/hero.png)
 
 Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
