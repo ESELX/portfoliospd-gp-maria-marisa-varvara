@@ -24,6 +24,10 @@ Este projeto começou por surgir através da proposta Nestor para a disciplina d
 
  "O **Projeto NESTOR** é uma iniciativa de investigação que explora a interseção entre sustentabilidade industrial, design e fabricação digital. No seu núcleo, o projeto visa desenvolver um sistema inteligente que otimize a utilização de material excedente da indústria do mobiliário, através da inserção automática de pequenos brinquedos de madeira nas áreas não utilizadas dos planos de corte CNC."
 
+ Usei como base para construir este projeto um mooboard criado em conjunto com o meu grupo de Produto.
+
+![](attachments/moodboard.png)
+
 Este projeto teve diversas fases a partir do momento em que era um jogo de encaixes, um carrossel, um jogo de equilíbrio até chegar a esta proposta. 
 
 ![](attachments/PRANCHARESUMO.png)
@@ -66,7 +70,7 @@ Como não conseguia avançar com esta ideia por já ter desenvolvido tantas idei
 
 **O que aprendi:** Aprendi que foi extremamente essencial para começar a perceber os mecanismos do objeto e a sua função como brinquedo.
 
-### Iteração 2 — [Modelação 3D - Primeira Tentativa]
+### Iteração 2 — [Modelação 3D - Maquete 3D]
 
 Após criar o meu ficheiro híbrido no Fusion adicionei os parâmetros.
 
@@ -93,10 +97,10 @@ Neste mesmo círculo criei dois retângulos que depois deixei tangentes ao círc
 **O que tentei:** Tentei iniciar o projeto e avançar com o meu conceito.
 
 **O que aprendi:** Aprendi que foi extremamente essencial para começar a perceber os mecanismos do objeto e a sua função como brinquedo.
-### Iteração 3 — [Maquete 2]
+### Iteração 3 — [Maquete 3]
 
 
-### Iteração 4 — [Maquete 3]
+### Iteração 4 — [Maquete 4]
 
 
 ## Resultado Final
