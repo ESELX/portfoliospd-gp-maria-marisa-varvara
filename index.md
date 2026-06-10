@@ -45,18 +45,20 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <div class="gallery-grid">
 
   <a class="gallery-card" href="tutoriais/_Bambu Lab A1 Mini/">
-    <img src="tutoriais/_Bambu Lab A1 Mini/attachments/hero.jpg" alt="" />
+    <img src="tutoriais/Bambu Lab A1 Mini/attachments/hero.jpg" alt="" />
     <h3>Bambu Lab A1 Mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
+
   <a class="gallery-card" href="tutoriais/_Silhouette Cameo/">
-    <img src="tutoriais/Silhouette Cameo/attachments/hero.jpg" alt="" />
+    <img src="tutoriais/Silhouette Cameo/attachments/hero.png" alt="" />
     <h3>Silhouette Cameo</h3>
     <p>Tutorial detalhado</p>
   </a>
 
 </div>
+
 <!-- markdownlint-enable MD033 -->
 
 ---
@@ -65,8 +67,6 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 
 Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado**, 50% da avaliação). As páginas individuais estão em [experiencias/](experiencias/).
 
-<!-- Duplicar o bloco abaixo para cada elemento e substituir `_modelo` em
-     ambos os caminhos por `<numero>-<nome>`. -->
 
 <!-- markdownlint-disable MD033 -->
 
@@ -85,13 +85,14 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
-    <img src="experiencias/2024338_Marisa/attachments/hero1/hero.jpg" alt="" />
+    <img src="experiencias/_2024338_Marisa/attachments/hero1/hero.png" alt="" />
     <h3>Deadlocked</h3>
     <p>Marisa Filipe</p>
   </a>
 
 
 </div>
+
 
 <div class="gallery-grid">
 
@@ -120,6 +121,28 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   <a class="gallery-card" href="experiencias/_2025319_Varvara/">
     <img src="experiencias/_2025319_Varvara/attachments/hero1/hero.jpg" alt="" />
     <h3>Autocolante</h3>
+    <p>Varvara Pertseva</p>
+  </a>
+
+
+</div>
+
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_2025319_Varvara/">
+    <img src="experiencias/_2025319_Varvara/attachments/hero3/hero.jpg" alt="" />
+    <h3>Caixa</h3>
+    <p>Varvara Pertseva</p>
+  </a>
+
+
+</div>
+
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_2025319_Varvara/">
+    <img src="experiencias/_2025319_Varvara/attachments/hero2/hero.jpg" alt="" />
+    <h3>Prateleira</h3>
     <p>Varvara Pertseva</p>
   </a>
 
