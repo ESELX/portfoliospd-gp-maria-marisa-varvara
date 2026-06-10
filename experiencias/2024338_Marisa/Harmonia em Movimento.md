@@ -165,16 +165,52 @@ Comecei pelos parâmetros:
 
 ![](attachments/Pasted%20image%2020260610184431.png)
 
+(Todas as medidas são editadas com a matemática do Fusion, por este motivo vou evitar mencionar-las). Depois de já ter criado um círculo para a base, criei um esboço de um círculo na mesma base. usei a extrusão e usei o circular pattern. Neste mesmo esboço desenhei um retângulo tangente ao círculo que depois extrudi com a espessura da base (1,2 cm) para baixo.
 
+Desenhei também no plano frontal em cima da base metade de uma curva com 3,50 cm de altura e 4 cm de largura que dupliquei para o lado com o Mirror. Depois desenhei um corte inferior de 1,75 cm de altura e 1,20 cm de largura com as medidas divididas pela linha central.
+e outro de uma curva que depois usei o mirror. Mais tarde usei a extrusão e desenhei outro igual que extrudi e criei um corte igual por cima que depois com o combine ficaram os dois encaixados.
 
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20184752.png)
+![](attachments/Pasted%20image%2020260610195754.png)
+
+Com aqueles retângulos extrudidos da base, extrudi para cima novamente com 4,80 cm ( a partir de um comprimento, 3 cm, menos a espessura)
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184758.png)
+
+Depois esboçei centrado em cada um destes paralelepípedos um círculo com 2,98 cm (tem uma folga de 0,2 mm) e adicionei outro retângulo dentro deste círculo com a espessura de largura e 2,70 de largura com os vértices tangentes ao círculo (pode ter folga).
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184835.png)
+
+Extrudi em corte com a espessura em todos estes paralelepípedos. 
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184900.png)
+
+Usei o retângulo anteriormente desenhado e extrudi com o seu comprimento: 9 cm. De seguida usei o circular pattern quatro vezes para adicionar aos outros elementos.
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184932.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184940.png)
+
+Depois desenhei na ponta do paralelepípedo o círculo para a tranca que não permite as outras peças se mexerem. Extrudi para dentro com a espessura e voltei a usar circular pattern.
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20185023.png)
 
 
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184719.png)
+![](attachments/Captura%20de%20ecrã%202026-06-10%20185043.png)
 
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20185056.png)
 
+Depois criei um plano de construção e desenhei no meio do paralelepípedo no plano lateral a minha alavanca. começo por fazer o círculo interior com a respetiva folga e o exterior com 3,01 e 3,50. De seguida desenhei uma linha do ponto central do círculo com 4 cm até à tangente do círculo da direita que tem 1,50 e situa-se abaixo da base superior. Do mesmo ponto central meço verticalmente 3 cm e 5,50 cm de largura até ao centro do nosso próximo círculo à esquerda. Este círculo tem 2,00 cm. Crio uma linha de apoio desde o ponto central do círculo de 3cm até ao centro do de 2,00 cm. faço uma linha tangente aos dois círculos que tem uma margem de 0,50 até à linha da simetria. Por fim, duplico com o Mirror esta linha e extrudo esta forma toda com a espessura toda a parte interior do círculo onde está o paralelepípedo. Volto a usar circular pattern para repetir quatro vezes.
+
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20185128.png)
+
+Para criar a base superior faço um esboço dum círculo a partir de um plano de costrução com a altura das formas cruzadas que estão debaixo.
+
+![](attachments/Captura%20de%20ecrã%202026-06-10%20184952.png)
+
+![](attachments/Pasted%20image%2020260610202409.png)
+
+Para prender as primeiras formas cruzadas criadas depois da base extrudo com a espessura até à base e uso o combine e keep tools para fazer um buraco. Para ficar justo, adicionei dogbones.
 
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20185154.png)
 
@@ -182,28 +218,11 @@ Comecei pelos parâmetros:
 
 ![](attachments/Captura%20de%20ecrã%202026-06-10%20185235.png)
 
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184752%201.png)
+No planeamento para a CNC não fiz arrange e fiz align, o align não ficou perfeito e ficou tudo desalinhado com a placa do ficheiro. Para cortar este ficheiro e definir as definições da fresa e outras questões para a CNC tive a assistência do professor. Usei uma placa de 12 mm.
 
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184758.png)
+![](attachments/alignerro.png)
 
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184835.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184900.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184915.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184932.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184940.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20184952.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20185003.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20185023.png)
-
-![](attachments/Captura%20de%20ecrã%202026-06-10%20185043.png)
-
+![](attachments/alignerro2.png)
 
 RENDERS:
 
@@ -219,8 +238,9 @@ RENDERS:
 ## Resultado Final
 
 
+Foto da placa depois de ser cortada:
 
-
+![](attachments/cncimagem.jpg)
 
 
 PEÇAS INDIVIDUAIS:
@@ -233,9 +253,21 @@ BASE 2 1X
 ![](attachments/20260610_121121-removebg-preview.png)
 ALAVANCA 4X
 ![](attachments/20260610_121217-removebg-preview.png)
+![](attachments/20260610_121246.jpg)
 
+![](attachments/20260610_120811.jpg)
 
+![](attachments/20260610_120921.jpg)
 
+Maquete cortada em CNC finalizada. A base superior fica estável mas o resto dos elementos com os encaixes estão desproporcionais e soltos.
+
+Demonstração do movimento:
+
+![](attachments/20260610_121008.mp4)
+![](attachments/20260610_121020.mp4)
+![](attachments/20260610_121656.mp4)
 ## Reflexão
 
-O que faria diferente? Que tecnologia exploraria mais a fundo numa próxima iteração?
+Faria as coisas com mais planeamento e com menos divergência de ideias. Por ter explorado tantas coisas não tive tempo de fazer parâmetros mais detalhados nem um objeto mais complexo ou com outras personalizações. Acredito que a parte da CNC correu mal porque nada encaixava e estava tudo muito solto ou muito apertado devido às folgas dos círculos.
+
+Gostaria de pensar neste projeto futuramente como base de fundamento para outras ideias.
