@@ -2,7 +2,7 @@
 title: Autocolante
 icon: lucide/box
 tags: galeria
-status: started
+status: not-started
 hero_image: attachments/hero.jpg
 hero_title: Autocolante
 hero_subtitle: Varvara Pertseva · 2025-26
