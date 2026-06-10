@@ -1,20 +1,20 @@
 ---
-title: Nome do Projeto Individual
+title: Pixel
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Nome do Projeto
-hero_subtitle: Varvara Pertseva · 2025-26
+hero_title: Pixel
+hero_subtitle: Marisa Filipe · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Marisa Filipe
+student_number: "2024338"
 ---
 
-# Nome do Projeto Individual
+# Pixel
 
 > Cada elemento do grupo deve duplicar esta pasta, renomear para `<numero>-<primeiro-nome>` e preencher.
 
@@ -30,7 +30,7 @@ Que ideia explora o projeto? Que problema ou pergunta o motivou? Tema é livre �
 
 Uma ou mais tecnologias estudadas em laboratório:
 
-- [ ] Corte 2D (laser / vinil)
+- [x] Corte 2D (laser / vinil)
 - [ ] Impressão 3D
 - [ ] CNC
 - [ ] Micro:bit / computação física
