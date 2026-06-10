@@ -16,7 +16,7 @@ student_number: "2022041"
 
 # Chaveiro Mimi
 
-![](attachments/hero%201.jpg)
+![](attachments/hero.jpg)
 
 Frase-conceito: "Mais do que um adereço, uma utilidade diária"
 
@@ -220,7 +220,7 @@ Tendo finalizado estes processos, basta colocarmos a pen USB, transferimos o nos
 Imagens bem produzidas do produto/objeto/intervenção final, com texto explicativo.
 
 
-![](attachments/hero%201.jpg)
+![](attachments/hero.jpg)
 
 ## Reflexão
 
