@@ -36,8 +36,6 @@ Uma ou mais tecnologias estudadas em laboratório:
 - [ ] Micro:bit / computação física
 - [ ] Outras —
 
-Materiais, software, ficheiros técnicos.
-
 ## Processo
 
 Iterações, decisões, aprendizagens. Mostra o percurso, não só o resultado.

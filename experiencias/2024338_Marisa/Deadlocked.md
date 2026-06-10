@@ -33,8 +33,11 @@ Fig. 2 - Sonic Sensor, Símbolo do Poder da Deadlock
 
 Da mesma forma, este acessório de cabelo tem a mesma forma e elementos e necessariamente prende o cabelo para que ele não caia, o que cria uma mensagem intuitiva à função do objeto.
 
-É importante mencionar que este projeto surgiu a partir da minha ideia inicial: cartas de tarot impressas em 3D, o que impulsionou as possibilidades criativas, especialmente em direção à funcionalidade tridimensional.
+É importante mencionar que este projeto surgiu a partir das minhas ideias iniciais: uma máquina de costura manual que seria como desenhar mas a coser e mais tarde, a ideia de cartas de tarot impressas em 3D, o que impulsionou as possibilidades criativas, especialmente em direção à funcionalidade tridimensional.
 
+![](attachments/sketchmc.jpg)
+
+Fig. 3 -  Esboços da Máquina de Costura
 ## Tecnologias Usadas
 
 Uma ou mais tecnologias estudadas em laboratório:
@@ -158,7 +161,7 @@ Mais tarde voltei a separar os objetos porque me apercebi que teriam que ser sep
 
 **O que aprendi:** Aprendi que deveria ter feito a parte 3d do segundo objeto a partir do sketch porque até esta parte não sabia se estava simétrico, porém como mais tarde cortei o objeto ao meio e usei o Mirror já ficou simétrico. Apesar de não ter muito conhecimento sobre este tipo de acessório de cabelo ao ver os exemplos na biblioteca online do Bamboo pensei que os objetos eram colados um ao outro, por isso mais tarde tive de fazer pesquisa extra, o que teria sido desnecessário se tivesse feito pesquisa extra. Também descobri que apesar de muitos destes acessórios terem uma forma concava para se adaptar à cabeça, é extremamente difícil criar esta curva a não ser que crie o objeto no plano frontal ou use uma tool num programa de esculpir como o Blender.
 
-### Iteração 2 — [Preparação do Ficheiro]
+### Iteração 3 — [Preparação do Ficheiro]
 
 Começei por salvar os corpos do fusion como mesh com formato STL.
 
