@@ -69,6 +69,8 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
      ambos os caminhos por `<numero>-<nome>`. -->
 
 <!-- markdownlint-disable MD033 -->
+
+
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2022041_Maria/">
@@ -78,15 +80,25 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
 
 </div>
+
+
+
+
+
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2022041_Maria/">
-    <img src="experiencias/_modelo/attachments/hero.jpg" alt="" />
+    <img src="experiencias/_2022041_Maria/attachments/hero.jpg" alt="" />
     <h3>Chaveiro Mimi</h3>
     <p>Maria Talhinhas</p>
   </a>
 
 </div>
+
+
+
+
+
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2022041_Maria/">
