@@ -3,7 +3,7 @@ title: Pixel
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: "[](attachments/pixelfinal.jpg)"
+hero_image: attachments/hero.jpg
 hero_title: Pixel
 hero_subtitle: Marisa Filipe · 2025-26
 hero_height: 80vh
