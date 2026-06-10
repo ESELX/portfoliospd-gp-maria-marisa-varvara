@@ -44,13 +44,13 @@ Cada grupo documenta **duas máquinas** com tutoriais detalhados. As páginas in
 <!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
+  <a class="gallery-card" href="tutoriais/_Bambu Lab A1 Mini/">
     <img src="tutoriais/_Bambu Lab A1 Mini/attachments/hero.jpg" alt="" />
     <h3>Bambu Lab A1 Mini</h3>
     <p>Tutorial detalhado</p>
   </a>
 
-  <a class="gallery-card" href="tutoriais/_modelo/">
+  <a class="gallery-card" href="tutoriais/_Silhouette Cameo/">
     <img src="tutoriais/Silhouette Cameo/attachments/hero.jpg" alt="" />
     <h3>Silhouette Cameo</h3>
     <p>Tutorial detalhado</p>
@@ -82,14 +82,45 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 
 </div>
 
+<div class="gallery-grid">
 
+  <a class="gallery-card" href="experiencias/_2024338_Marisa/">
+    <img src="experiencias/_2024338_Marisa/attachments/hero1/hero.jpg" alt="" />
+    <h3>Deadlocked</h3>
+    <p>Marisa Filipe</p>
+  </a>
+
+
+</div>
 
 <div class="gallery-grid">
 
-  <a class="gallery-card" href="experiencias/_2022041_Maria/">
-    <img src="experiencias/_2024338_Marisa/attachments/hero.jpg" alt="" />
-    <h3>Deadlocked</h3>
+  <a class="gallery-card" href="experiencias/_2024338_Marisa/">
+    <img src="experiencias/_2024338_Marisa/attachments/hero2/hero.jpg" alt="" />
+    <h3>Harmonia em Movimento</h3>
     <p>Marisa Filipe</p>
+  </a>
+
+
+</div>
+
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_2024338_Marisa/">
+    <img src="experiencias/_2024338_Marisa/attachments/hero3/hero.jpg" alt="" />
+    <h3>Pixel</h3>
+    <p>Marisa Filipe</p>
+  </a>
+
+
+</div>
+
+<div class="gallery-grid">
+
+  <a class="gallery-card" href="experiencias/_2025319_Varvara/">
+    <img src="experiencias/_2024338_Varvara/attachments/hero1/hero.jpg" alt="" />
+    <h3>Autocolante</h3>
+    <p>Varvara Pertseva</p>
   </a>
 
 

@@ -54,7 +54,7 @@ A partir daí, bastou escolher a cor do vinil e definir as configurações para 
 
 O resultado final é suficientemente pequeno para caber na capa do meu telemóvel. Como já referi, é inspirado num emblema do videojogo «Marathon».
 
-![](attachments/sticker%20final.jpg)
+![](attachments/hero1/hero.jpg)
 ![](attachments/sticker%20final%20outer.jpg)
 
 ## Reflexão

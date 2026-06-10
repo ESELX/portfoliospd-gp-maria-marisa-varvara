@@ -72,7 +72,7 @@ A partir daí, imprimi a base e a parte superior separadamente em duas sessões;
 Este é o aspeto final do objeto;
 Tem uma parte superior e uma parte inferior, que se encaixam para ficarem no lugar. A caixa tem capacidade para até 18 dados, uma vez que essa é a quantidade necessária para o jogo.
 
-![](attachments/box%20final.jpg)
+![](attachments/hero3/hero.jpg)
 
 ## Reflexão
 

@@ -71,7 +71,7 @@ Como as medidas eram muito precisas, tive de usar um martelo para montar a prate
 Este é o aspeto final do objeto;
 Chega até à altura da minha barriga da perna e é muito pesado, mas também resistente. É muito difícil separar as peças, o que o torna difícil de partir.
 
-![](attachments/shelf%20final.jpg)
+![](attachments/hero2/hero.jpg)
 
 ## Reflexão
 
