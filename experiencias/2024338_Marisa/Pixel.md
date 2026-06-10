@@ -85,7 +85,7 @@ Depois de ter o meu vinil pronto usei um material autocolante para arrancar as f
 
 Imagem Final da Pixel do autocolante colado a uma folha.
 
-![](attachments/pixelfinal.jpg)
+![](attachments/hero3/hero.jpg)
 
 ## Reflexão
 

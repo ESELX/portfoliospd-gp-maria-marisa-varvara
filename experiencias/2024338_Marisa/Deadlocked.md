@@ -161,11 +161,11 @@ Mais tarde voltei a separar os objetos porque me apercebi que teriam que ser sep
 
 **O que aprendi:** Aprendi que deveria ter feito a parte 3d do segundo objeto a partir do sketch porque até esta parte não sabia se estava simétrico, porém como mais tarde cortei o objeto ao meio e usei o Mirror já ficou simétrico. Apesar de não ter muito conhecimento sobre este tipo de acessório de cabelo ao ver os exemplos na biblioteca online do Bamboo pensei que os objetos eram colados um ao outro, por isso mais tarde tive de fazer pesquisa extra, o que teria sido desnecessário se tivesse feito pesquisa extra. Também descobri que apesar de muitos destes acessórios terem uma forma concava para se adaptar à cabeça, é extremamente difícil criar esta curva a não ser que crie o objeto no plano frontal ou use uma tool num programa de esculpir como o Blender.
 
-### Iteração 3 — [Preparação do Ficheiro]
+### Iteração 2 — [Preparação do Ficheiro]
 
 Começei por salvar os corpos do fusion como mesh com formato STL.
 
-![](attachments/Captura%20de%20ecrã%202026-05-20%20200639.png)
+![560](attachments/Captura%20de%20ecrã%202026-05-20%20200639.png)
 
 ![](attachments/Captura%20de%20ecrã%202026-05-20%20194712.png)
 

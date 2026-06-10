@@ -255,7 +255,7 @@ ALAVANCA 4X
 ![](attachments/20260610_121217-removebg-preview.png)
 ![](attachments/20260610_121246.jpg)
 
-![](attachments/20260610_120811.jpg)
+![](attachments/hero2/hero.jpg)
 
 ![](attachments/20260610_120921.jpg)
 

@@ -17,6 +17,8 @@ machine_name: ""
 
 > Frase-síntese: Uma impressora 3D é uma máquina que cria objetos tangíveis e tridimensionais a partir de projetos digitais, utilizando várias técnicas; no nosso caso, através da adição de material camada a camada.
 
+![](attachments/hero.jpg)
+
 ## 1. Como desenhar para esta tecnologia?
 
 Como era de esperar, cada dispositivo tem um conjunto de limitações que devemos ter em conta para que os nossos projetos possam ser realizados nele. 
