@@ -85,7 +85,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
-    <img src="experiencias/_2024338_Marisa/attachments/hero1/hero.jpg" alt="" />
+    <img src="experiencias/2024338_Marisa/attachments/hero1/hero.jpg" alt="" />
     <h3>Deadlocked</h3>
     <p>Marisa Filipe</p>
   </a>
@@ -118,7 +118,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 <div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2025319_Varvara/">
-    <img src="experiencias/_2024338_Varvara/attachments/hero1/hero.jpg" alt="" />
+    <img src="experiencias/_2025319_Varvara/attachments/hero1/hero.jpg" alt="" />
     <h3>Autocolante</h3>
     <p>Varvara Pertseva</p>
   </a>
