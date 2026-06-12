@@ -243,16 +243,6 @@ Fig. 3 - Esboços em Detalhe
 
 Fig. 4 - Prancha Resumo do Conceito Finalizada
 
-## Tecnologias Usadas
-
-Uma ou mais tecnologias estudadas em laboratório:
-
-- [ ] Corte 2D (laser / vinil)
-- [ ] Impressão 3D
-- [x] CNC
-- [ ] Micro:bit / computação física
-- [ ] Outras —
-
 ## Processo
 
 ### Iteração 1 — [Maquete 1]
@@ -473,16 +463,6 @@ Frase-conceito: Pixelar o que emerge.
 ## Conceito
 
 O projeto Pixel surgiu a partir do nome do meu animal de estimação, o meu gato. Pensei em criar uma "catch phrase" a partir do nome do meu gato sendo que a tecnologia usada para este projeto requer simplificar formas durante o processo.
-
-## Tecnologias Usadas
-
-Uma ou mais tecnologias estudadas em laboratório:
-
-- [x] Corte 2D (laser / vinil)
-- [ ] Impressão 3D
-- [ ] CNC
-- [ ] Micro:bit / computação física
-- [ ] Outras —
 
 ## Processo
 
