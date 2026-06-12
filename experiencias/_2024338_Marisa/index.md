@@ -450,7 +450,7 @@ ALAVANCA 4X
 ![](attachments/20260610_121217-removebg-preview.png)
 ![](attachments/20260610_121246.jpg)
 
-![](attachments/hero2/hero.jpg)
+![](attachments/maquetefinal.jpg)
 
 ![](attachments/20260610_120921.jpg)
 
@@ -538,7 +538,7 @@ Depois de ter o meu vinil pronto usei um material autocolante para arrancar as f
 
 Imagem Final da Pixel do autocolante colado a uma folha.
 
-![](attachments/hero3/hero.jpg)
+![](attachments/pixelfinal.jpg)
 
 ## Reflexão
 

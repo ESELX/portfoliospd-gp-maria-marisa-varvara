@@ -3,7 +3,7 @@ title: GP - Maria, Marisa, Varvara
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: GP - Maria, Marisa, Varvara
 hero_subtitle: Prototipagem Digital · 2025-26
 hero_height: 100vh
