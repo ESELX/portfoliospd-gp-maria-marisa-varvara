@@ -13,7 +13,15 @@ published: true
 student_name: Marisa Filipe
 student_number: "2024338"
 ---
+# Tecnologias Usadas
 
+Uma ou mais tecnologias estudadas em laboratório:
+
+- [x] Corte 2D (laser / vinil)
+- [x] Impressão 3D
+- [x] CNC
+- [ ] Micro:bit / computação física
+- [ ] Outras —
 # Deadlocked
 
 Frase-conceito: Prende o cabelo como uma tranca
@@ -26,7 +34,7 @@ Para este projeto pensei primeiramente num acessório que me fosse útil. Rapida
 
 Fig. 1 - Personagem Deadlock do Valorant
 
-![](attachments/Sonic_Sensor.webp)
+![](attachments/Sonic_Sensor.png)
 
 
 Fig. 2 - Sonic Sensor, Símbolo do Poder da Deadlock
@@ -38,15 +46,6 @@ Da mesma forma, este acessório de cabelo tem a mesma forma e elementos e necess
 ![](attachments/sketchmc.jpg)
 
 Fig. 3 -  Esboços da Máquina de Costura
-## Tecnologias Usadas
-
-Uma ou mais tecnologias estudadas em laboratório:
-
-- [x] Corte 2D (laser / vinil)
-- [x] Impressão 3D
-- [x] CNC
-- [ ] Micro:bit / computação física
-- [ ] Outras —
 ## Processo
 
 ### Iteração 1 — [Sketch]
