@@ -1,10 +1,10 @@
 ---
-title: Chaveiro Mimi
+title: Mimi
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Chaveiro Mimi
+hero_title: Mimi
 hero_subtitle: Maria Talhinhas · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
