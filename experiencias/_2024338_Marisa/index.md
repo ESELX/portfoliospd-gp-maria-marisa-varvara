@@ -34,7 +34,7 @@ Para este projeto pensei primeiramente num acessório que me fosse útil. Rapida
 
 Fig. 1 - Personagem Deadlock do Valorant
 
-![](attachments/Sonic_Sensor.png)
+![](attachments/SonicSensor.png)
 
 
 Fig. 2 - Sonic Sensor, Símbolo do Poder da Deadlock
