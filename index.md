@@ -80,21 +80,11 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
   </a>
 
 
-</div>
-
-<div class="gallery-grid">
-
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
-    <img src="experiencias/_2024338_Marisa/attachments/hero1/hero.png" alt="" />
-    <h3>Deadlocked</h3>
+    <img src="experiencias/_2024338_Marisa/attachments/hero.png" alt="" />
+    <h3>Projetos Tema X</h3>
     <p>Marisa Filipe</p>
   </a>
-
-
-</div>
-
-
-<div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
     <img src="experiencias/_2024338_Marisa/attachments/hero2/hero.jpg" alt="" />
@@ -102,21 +92,11 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Marisa Filipe</p>
   </a>
 
-
-</div>
-
-<div class="gallery-grid">
-
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
     <img src="experiencias/_2024338_Marisa/attachments/hero3/hero.jpg" alt="" />
     <h3>Pixel</h3>
     <p>Marisa Filipe</p>
   </a>
-
-
-</div>
-
-<div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2025319_Varvara/">
     <img src="experiencias/_2025319_Varvara/attachments/hero1/hero.jpg" alt="" />
@@ -124,21 +104,11 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
     <p>Varvara Pertseva</p>
   </a>
 
-
-</div>
-
-<div class="gallery-grid">
-
   <a class="gallery-card" href="experiencias/_2025319_Varvara/">
     <img src="experiencias/_2025319_Varvara/attachments/hero3/hero.jpg" alt="" />
     <h3>Caixa</h3>
     <p>Varvara Pertseva</p>
   </a>
-
-
-</div>
-
-<div class="gallery-grid">
 
   <a class="gallery-card" href="experiencias/_2025319_Varvara/">
     <img src="experiencias/_2025319_Varvara/attachments/hero2/hero.jpg" alt="" />
