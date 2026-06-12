@@ -97,4 +97,4 @@ Para este tipo de projeto, ou seja, o corte em vinil na Silhouette Cameo exige o
 - - Links externos: https://free-dxf.com
 - Vídeos de referência:
 ![](attachments/silhouttecameo2.mp4)
-![](attachments/20260513_192021%20(1).mp4)
+![](attachments/video1.mp4)

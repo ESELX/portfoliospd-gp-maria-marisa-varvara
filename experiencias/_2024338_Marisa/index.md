@@ -42,9 +42,9 @@ Fig. 3 -  Esboços da Máquina de Costura
 
 Uma ou mais tecnologias estudadas em laboratório:
 
-- [ ] Corte 2D (laser / vinil)
+- [x] Corte 2D (laser / vinil)
 - [x] Impressão 3D
-- [ ] CNC
+- [x] CNC
 - [ ] Micro:bit / computação física
 - [ ] Outras —
 ## Processo
@@ -195,7 +195,7 @@ Por fim exportei o Plate para a pen e inseri na máquina.
 ## Resultado Final
 
 Imagens finais do objeto impresso com o fundo removido.
-![620](../../tutoriais/Bambu%20Lab%20A1%20Mini/attachments/dealockedimpresso.png)
+![620](../../tutoriais/BambuLabA1Mini/attachments/deadlock2.png)
 
 ![697](attachments/deadlockimpresso2.png)
 Aplicado no cabelo:

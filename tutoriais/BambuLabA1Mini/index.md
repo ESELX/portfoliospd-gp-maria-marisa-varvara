@@ -66,19 +66,19 @@ A "BambuStudio" aceita três tipos de ficheiros para impressão: .3mf, .STL ou .
 3º Layer Heigth - 0.2 mm 
 4ºSeam - Aligned
 
-![](attachments/Pasted%20image%2020260610170438.png)
+![](attachments/bamboplate2.png)
 
 4. Vamos depois ajustar a densidade do preenchimento se necessários e ativar os suportes (principalmente para peças que posso sem ter partes suspensas) e vamos clicar onde diz "Slice Plate" e gerando automaticamente o suportes necessários e confirmando quanto tempo levara a impressão 
 
-![](attachments/Pasted%20image%2020260610170809.png)
+![](attachments/bamboplate.png)
 
 5.  Agora para enviar o ficheiro vamos utilizar o cartão "micro sd" que esta dentro da pen, inserimos a mesma no nosso dispositivo transferimos o ficheiros e depois devemos inserir a pen na ranhura lateral da impressora e selecionar o projeto no ecrã tátil e iniciamos o mesmo
 
-![](attachments/Captura%20de%20ecrã%202026-06-04%20003031.png)
+![](attachments/ecrabambo.png)
 
 6. Assim que o ecrã indicar que 100% do processo foi concluído, devemos aguardar um pouco ate arrefecer e depois podemos dobrar ligeiramente a placa para ser mais fácil retirar o projeto
 
-![](attachments/impressao3d.mp4)
+![](attachments/video1.mp4)
 
 ## 5. Resultado e pós-produção
 
@@ -86,8 +86,10 @@ Depois de concluída a impressão, o que a maioria das pessoas faz é lixar o ob
 
 Por melhor que seja a impressora, esta deixa quase sempre superfícies irregulares e também pode, acidentalmente, fazer com que certas partes do objeto fiquem um pouco grandes demais.
 
-![](attachments/dealockedimpresso.png)
-![](attachments/deadlockimpresso2.png)
+![](attachments/deadlock2.png)
+![](attachments/deadlock1.png)
+![](attachments/Pasted%20image%2020260612120230.png)
+
 ## 6. Recursos e Ficheiros
 
 Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
@@ -95,4 +97,4 @@ Templates, ficheiros-modelo, links, bibliografia técnica, FAQ, troubleshooting.
 - Ficheiros-modelo:![](attachments/deadlockhairpin%201.3mf)![](attachments/prototipagem.3mf)
 - Links externos:https://makerworld.com/pt
 - Vídeos de referência:
-![](attachments/impressao3d%201.mp4)![](attachments/impressao3d_2.mp4)
+![](attachments/video2.mp4)![](attachments/impressao3d_2.mp4)
