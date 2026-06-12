@@ -80,7 +80,7 @@ Cada elemento do grupo desenvolveu um portfólio individual (**Projeto Integrado
 
   <a class="gallery-card" href="experiencias/_2024338_Marisa/">
     <img src="experiencias/_2024338_Marisa/attachments/hero.png" alt="" />
-    <h3>Pixel</h3>
+    <h3>Deadlocked</h3>
     <p>Marisa Filipe</p>
   </a>
 
