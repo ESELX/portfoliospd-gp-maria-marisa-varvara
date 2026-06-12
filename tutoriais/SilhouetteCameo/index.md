@@ -3,7 +3,7 @@ title: Silhouette Cameo
 icon: lucide/cog
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: Silhouette Cameo
 hero_subtitle: Tutorial detalhado
 hero_height: 70vh
@@ -16,8 +16,6 @@ machine_name: ""
 # Silhouette Cameo
 
 > Frase-síntese: é uma plotter de corte digital, utilizada para cortar com precisão materiais como vinil adesivo, papel e cartolina. É um equipamento utilizado para personalizar produtos e prototipagem rápida de autocolantes.
-
-![](attachments/hero.png)
 
 Tutorial elaborado pelo grupo seguindo a estrutura de referência (ver tutorial CNC do Fablab Benfica como modelo: <https://fablabbenfica.gitlab.io/fablabbenficadocs/machines/ouplan/>).
 
