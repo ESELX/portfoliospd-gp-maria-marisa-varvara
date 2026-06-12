@@ -209,6 +209,7 @@ Em relação aos objetos como um todo, acho que um aspeto muito importante é o 
 
 Acredito que correu bem e no fim até ficou bem executado. Na minha opinião, aspetos como o tamanho, o filamento, a textura e o formato intencionalmente ajustaram-se à forma que uso as coisas: no sentido em que acessórios de cabelo costumam ser desconfortáveis para mim e por este objeto ser tão grande e solto, permite um conforto incrível para espaços que não exigem muito movimento. Até mesmo a questão de ser impresso em 3d: o material contribuí para a temperatura sendo que por ser fresco ainda adiciona mais conforto ao seu uso.
 
+
 # Harmonia em Movimento
 
 Frase-conceito: Brinquedo de equilíbrio que cria movimento entre as peças e os utilizadores.
